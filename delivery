@@ -1,0 +1,207 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+  <head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="shortcut icon" href="files/vfamily/vfamilycoffee6_favicon.ico" type="image/x-icon" />
+    <title>Monthly Subscription Service | Velasquez Family Coffee =)</title>
+    <link type="text/css" rel="stylesheet" media="all" href="sites/www.vfamilycoffee.com/files/css/css_4eaf1c86964f7e8814125c94d191029e.css" />
+<link type="text/css" rel="stylesheet" media="print" href="sites/www.vfamilycoffee.com/files/css/css_bc5ae13bf5f3e63ab23a5b62c47754c7.css" />
+    <script type="text/javascript" src="sites/www.vfamilycoffee.com/files/js/js_b8cfb2bf7e47376407cf58eb71f50f95.js"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"thickbox":{"close":"Close","next":"Next \u003e","prev":"\u003c Prev","esc_key":"or Esc Key","next_close":"Next \/ Close on last","image_count":"Image !current of !total"}});
+//--><!]]>
+</script>
+    <!--[if lt IE 7]>
+      <link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/custom/vfamilycoffee6/fix-ie.css" />    <![endif]-->
+  </head>
+  <body class="not-front not-logged-in ntype-story both-sidebars">
+
+	<div id="page_wrapper">
+
+<!-- ******************************* START CONTENT PAGE AREA *********************** -->
+
+		<div id="contain1">
+		<div id="contain2">
+			
+	  	      	<!-- start side bar left -->
+					        		<div id="sidebar-left" class="column sidebar left">
+	       				
+	       				<div class='pad'>
+	       					
+	       					<div id="logo-title">
+      
+				        						        			<a href="index.html" title="Home">
+				            			<img src="files/vfamilycoffee_logo.gif" alt="Home" id="logo" />
+				          			</a>
+				        						        
+				        		<div id="name-and-slogan">
+				        							
+				        							        		</div>
+				        		<!-- /name-and-slogan -->
+				        		
+				      		</div>
+				      		<!-- /logo-title -->
+
+	          				<div id="block-menu-menu-main-menu" class="block block-menu">  
+  <div class="blockinner">
+    <h2 class="title"> Main Menu </h2>
+    <div class="content">
+      <ul class="menu"><li class="leaf first"><a href="catalog.1" title="Order Coffee Now with Your Credit Card">Buy Coffee Now</a></li>
+<li class="leaf active-trail"><a href="delivery" title="Free Monthly Home Delivery From Velasquez Family Coffee" class="active">Get Coffee Monthly</a></li>
+<li class="leaf"><a href="fund" title="Coffee Fundraisers With Velsquez Family Coffee">Coffee Fundraisers</a></li>
+<li class="leaf"><a href="about" title="About Velasquez Family Coffee">About Our Coffee</a></li>
+<li class="leaf"><a href="family" title="Meet The Velasquez Family that grows our coffee">Meet Our Growers</a></li>
+<li class="leaf"><a href="visit" title="Eco-Tourism At The Family Farm">Visit The Farm</a></li>
+<li class="leaf last"><a href="order" title="Information and Resources about Coffee">Coffee Insights</a></li>
+</ul>    </div>    
+  </div>
+</div><div id="block-simplenews-3" class="block block-simplenews">  
+  <div class="blockinner">
+    <h2 class="title"> Velasquez Family News </h2>
+    <div class="content">
+            <p>Stay informed on our latest news!</p>
+  
+      <form action="delivery"  accept-charset="UTF-8" method="post" id="simplenews-block-form-3" class="simplenews-subscribe">
+<div><div class="form-item" id="edit-realname-wrapper">
+ <label for="edit-realname">Name: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="255" name="realname" id="edit-realname" size="20" value="" class="form-text required" />
+</div>
+<div class="form-item" id="edit-mail-wrapper">
+ <label for="edit-mail">Email: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="128" name="mail" id="edit-mail" size="20" value="" class="form-text required" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Subscribe"  class="form-submit" />
+<input type="hidden" name="form_build_id" id="form-ea56c8deae5c89bbf4af3fd21cd9c805" value="form-ea56c8deae5c89bbf4af3fd21cd9c805"  />
+<input type="hidden" name="form_id" id="edit-simplenews-block-form-3" value="simplenews_block_form_3"  />
+
+</div></form>
+  
+      <div class="issues-link"><a href="taxonomy/term/3">Previous issues</a></div>
+  
+  
+      <a href="https://www.vfamilycoffee.com/taxonomy/term/3/0/feed" class="feed-icon"><img src="misc/feed.png" alt="Syndicate content" title="Velasquez Family News feed" width="16" height="16" /></a>      </div>    
+  </div>
+</div><div id="block-block-23" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <img alt="little people" src="files/vfamily/little_people.gif" />
+<p>©2007 Velasquez Family Coffee</p>    </div>    
+  </div>
+</div>	          				
+	          			</div>
+	          				
+	        		</div>
+	      			      		<!-- /sidebar-left -->
+
+	       		<!-- start sidebar right area -->
+					        		<div id="sidebar-right" class="column sidebar right">
+	        			<div class='pad'>
+	          				<div id="block-block-8" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <p><img src="files/vfamily/window.jpg" alt="" /> <img src="files/vfamily/kitchen.jpg" alt="" /> <img src="files/vfamily/bagsphoto.jpg" alt="" /></p><p><em>"The coffee’s great. Appreciate the delivery! It is one of the things that helps simplify my life."</em><br /><br /><em>"The coffee is delicious and you can’t beat the free delivery!"</em></p><p><em>"Looking forward to the delivery! I may not have time to shop for food but at least I have a cup of Maximo’s coffee every day."</em></p>    </div>    
+  </div>
+</div>	        			</div>
+	        		</div>
+	      			      		<!-- /sidebar-right -->	    	
+		      		
+	      		<!-- main text and content area -->
+      			<div id="middle" class="">
+      				
+	      			<!-- ******************************* HEADER PAGE AREA *********************** -->
+
+							<div id="header">
+								
+																
+								<div id="block-block-29" class="block block-block">  
+  <div class="blockinner">
+    <h2 class="title">  </h2>
+    <div class="content">
+      <a href="shade-grown"><img src="files/vfamily/shade_grown.gif" alt="Shade Grown" width="82" height="51" /></a><a href="hand-picked"><img src="files/vfamily/hand_picked.gif" alt="Hand Picked" width="81" height="51" /></a><a href="sun-dried"><img src="files/vfamily/sun_dried.gif" alt="Sun Dried" width="82" height="51" /></a><a href="fair-trade"><img src="files/vfamily/fair_trade.gif" alt="Fair Trade" width="82" height="51" /></a>    </div>    
+  </div>
+</div>					          			      
+
+					      							        		<div id="header-region">
+					          			<div class="breadcrumb"><a href="index.html">Home</a></div>					        		</div>
+					      							
+					      		          			
+					          	<div id="navigation" class="menu withprimary ">
+					          							            		<div id="primary" class="clear-block">
+					              			<ul class="links primary-links"><li class="menu-195 first"><a href="cart" title="Shopping Cart">My Cart</a></li>
+<li class="menu-32"><a href="newsletter.1" title="Newsletter">Newsletter</a></li>
+<li class="menu-34 last"><a href="contact" title="Contact">Contact</a></li>
+</ul>					            		</div>
+					          							          
+					          							          	</div>
+					          	<!-- /navigation -->
+					
+							</div>
+							<!-- /header -->
+					
+					<!-- ******************************* END HEADER PAGE AREA *********************** -->
+
+					<!-- ******************************* START THE 'content' PAGE AREA *********************** -->
+      				<div class='pad'>
+
+	        				        			
+	        				        			
+	        				        				<h1 class="title">
+	        					Monthly Subscription Service	        				</h1>
+	        				        			
+	        				        			
+	        				        			
+	        				        			
+	        				        			
+	        			<div id="node-6" class="node ntype-story">
+
+  
+  
+  
+  <div class="meta">
+      </div>
+
+  <div class="content">
+    <p>The most convenient way to get our freshest coffee is to sign up for our monthly coffee subscription. On the second Friday of each month, we can deliver or mail to your home or office. <strong>Sign up for a new subscription (see details below) and your first 12 oz bag is FREE.</strong></p><h3><a name="ROUTE"></a>MONTHLY DELIVERY</h3><p>If you live or work in Saint Paul and Minneapolis and the following surrounding communities, we can deliver coffee directly to your home or office -- free of charge -- on the second Friday of each month.</p><p><strong>Our free delivery route</strong> currently includes the following cities and suburbs:<em>&nbsp;</em></p><p><em>East Metro:</em> St. Paul, West St. Paul, Woodbury, Oakdale, Maplewood, White Bear Lake, Shoreview, Vadnais Heights, Falcon Heights, Roseville;&nbsp; <em>&nbsp;</em></p><p><em>West Metro:</em> Minneapolis, Columbia Heights, Golden Valley, St. Louis Park, Edina and Richfield.</p><h3>MONTHLY MAIL ORDER</h3><p>We can also mail coffee just about anywhere for the added cost of postage. Our Monthly Mail subscribers receive a 10% discount on their monthly orders.</p><h3>SIGN UP TODAY</h3><p>Place your first order through our&nbsp;<a title="Shopping Cart" href="catalog.1" target="_self">shopping cart</a>&nbsp;or call us at 651-587-5356 with the following information about your subscription:</p><p>1. <strong>Coffee</strong>: How many bags of which kind of coffee would you like each month? (Remember you can change this at any time). Don't forget to tell us if you want it ground or whole bean.<strong> Read full descriptions of all our coffees <a href="node/803">here</a>.<br /></strong></p><p style="padding-left: 30px;"><strong>Regular Roasts and Decaf</strong> -- available whole bean or ground in 12 oz bags for $10.00 or 5# bulk bags for $55<strong><em>. </em></strong><em>Regular Roasts</em>: Maximo's French Roast (dark), Vienna Roast (medium), Memo's Breakfast Blend (blend), Alma's Full City Roast (light); <em>Swiss Water Decaf</em>: Dark or Light Roasts<em>&nbsp;</em></p><p style="padding-left: 30px;"><strong>Flavored Coffee</strong> -- available whole bean or ground in 8 oz bags for $7.50, 5# bulk bags by special order for $55<em>. Regular Flavors</em>: Almond Amaretto, Caribbean Hazelnut, Dutch Chocolate, African Cinnamon, French Vanilla, Irish Cream<strong>&nbsp;</strong></p><p>2. <strong>Your Information</strong>:</p><p style="padding-left: 30px;">Name<br />Email Address<br />Street Address, City, State, Zip<br />Phone Number</p><p>3. <strong>Delivery Options</strong></p><p style="padding-left: 30px;">--Please deliver directly to my home or office. If I'm not available, please leave coffee ___________ (e.g., on porch, in garage, back door, at front desk, etc.)</p><p style="padding-left: 30px;">--Please ship to me by mail -- we'll subtract 10% from the cost of your monthly order and add the postage to your invoice -- approximately $5-$10 depending on how much you order and where you live.</p><h3>Frequently Asked Questions about our Monthly Subscription Service<a title="FAQ" name="FAQ"></a></h3><p><strong>Q. Is there a minimum amount I need to order each month?</strong><br />A. No, we can deliver as little as one 12 oz bag of coffee.</p><p><strong>Q. Do I have to get exactly the same order every month?</strong><br />A. You can vary your order as much as you want, simply by emailing or calling us or sending a note with your payment. We send out a reminder email each month 1 week before the delivery with your order details and a reminder to let us know if you want to make any changes.</p><p><strong>Q. What happens if we are on vacation or end up with a backlog of coffee and don't need coffee delivered?</strong><br />A. We are very flexible with our subscription service and are happy to stop delivery for a month or more if you notify us.</p><p><strong>Q. How do I pay for my coffee?</strong><br />A. We'll deliver your coffee with an invoice and you can pay with a check after you receive the coffee. We also offer automatic payments with credit card or ACH checking withdrawal options for our monthly customers. Simply fill in this information on the bottom of one of our invoices or <a href="contact">contact us</a> for more information.</p><p><strong>Q. What if I don't want to get coffee every month but still want coffee delivered or mailed to me now and then?</strong><br />A. You can also order coffee occasionally. We'll send you the "occasional" version of our monthly email newsletter reminding you of upcoming delivery dates and other coffee news.</p><p><strong>Q. Why do you offer a free bag of coffee for new monthly subscriptions?</strong><br />A. Monthly subscriptions are convenient for us too. It helps us know approximately how much coffee to order from our roaster each month and gives us a good idea what our delivery route will look like. That said, we're all about flexibility. So feel free to order in whatever way makes the most sense to you.</p><h3>DISTRIBUTORS<a title="DISTRIBUTORS" name="DISTRIBUTORS"></a></h3><p>You can also purchase coffee from the following fine businesses.</p><p><strong>Sunrise Market</strong>&nbsp;- 1085 Grand Ave, Saint Paul, Minnesota. 651-487-1913 <a href="http://sunrisecreativegourmet.com/where-to-buy/sunrise-market/" target="_blank">www.sunrisecreativegourmet.com</a></p><p><strong>StevenBe's Yarn Garage</strong>&nbsp;—carries an exclusive StevenBe Blend of Velasquez Family coffee at their creative yarn and fiber store at 3448 Chicago Avenue in Minneapolis.&nbsp;<a href="http://stevenbe.com/index.html" target="_blank">www.stevenbe.com</a></p><p><strong>Moonstone Farm</strong> — carries our coffee along with their family's fine beef products. Information on their products is available at <a href="http://www.prairiefare.com/" target="_blank">www.prairiefare.com</a></p><p><strong>Fresh Earth Farm</strong>&nbsp;- offers our coffee as a CoffeeShare to their CSA members. 651-436-2778&nbsp;<a title="Fresh Earth Farms" href="http://www.freshearthfarms.com/" target="_blank">www.freshearthfarms.com</a></p><p>We are working to expand our retail distributors. Let us know if you or someone you know would like to carry our coffee.</p><p>&nbsp;</p>  </div>
+  
+  
+</div>
+	        			
+	        				        			
+	        				        		
+	        		<!-- ******************************* END THE 'content' PAGE AREA *********************** -->
+	        			
+	        		</div>	
+	        				        			
+	      		</div>
+	      		<!-- end main text and content area -->
+	      			    				
+			<div class='clear'></div>
+
+		</div>
+    	</div>
+    	<!-- /container -->
+    	
+<!-- ******************************* END CONTENT PAGE AREA *********************** -->
+
+<!-- ******************************* START FOOTER PAGE AREA *********************** -->
+		
+		<div id="footer" class="clear">
+        	      	</div>
+      	<!-- /footer -->
+    
+    	<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-31540804-1"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+
+	</div>
+	<!-- /page_wrapper -->
+	
+  </body>
+</html>
